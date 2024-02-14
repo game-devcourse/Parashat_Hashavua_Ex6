@@ -1,7 +1,8 @@
 # משחק "פרשת השבוע"
 
 ברוכים הבאים למשחק "פרשת השבוע"! 🌟
-[למשחק]()
+
+[למשחק](https://edenxhadar.itch.io/parashat-hashavua-start)
 
 ## תיאור המשחק
 
